@@ -3,12 +3,8 @@ import { Inspector } from 'react-dev-inspector';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: {
-    default: '新应用 | 扣子编程',
-    template: '%s | 扣子编程',
-  },
-  description:
-    '扣子编程是一款一站式云端 Vibe Coding 开发平台。通过对话轻松构建智能体、工作流和网站，实现从创意到上线的无缝衔接。',
+  title: '对象存储',
+  description: '对象存储应用',
   keywords: [
     '扣子编程',
     'Coze Code',
